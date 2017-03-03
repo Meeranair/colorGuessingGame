@@ -51,7 +51,13 @@ button:hover {
 	height: 30px;
 	background: white;
 	text-align: center;
-	color: black;
+	color: steelblue;
+	text-transform: uppercase;
+}
+
+.selected {
+	color: white;
+	background: steelblue;
 }
 
 #result {
